@@ -1,7 +1,7 @@
 # Проект 0. Угадай число
 
 ## Оглавление
-[1. Описание проекта](https://github.com/SchyB/sf_ds/tree/main/project_0\описание-проекта) 
+[1. Описание проекта](https://github.com/SchyB/sf_ds/tree/main/project_0\#описание-проекта) 
 
 [2. Какой кейс решаем?](https://github.com/SchyB/sf_ds/tree/main/project_0\README.md#Какой-кейс-решаем?)
 
