@@ -43,7 +43,7 @@
 
 :arrow_up:[к оглавлению](https://github.com/SchyB/sf_ds/tree/main/project_0\#Оглавление)
 
-### Результаты
+### Результат
 . . . . 
 
 :arrow_up:[к оглавлению](https://github.com/SchyB/sf_ds/tree/main/project_0\#Оглавление)
