@@ -3,7 +3,7 @@
 ## Оглавление
 [1. Описание проекта](https://github.com/SchyB/sf_ds/tree/main/project_0\#описание-проекта) 
 
-[2. Какой кейс решаем?](https://github.com/SchyB/sf_ds/tree/main/project_0\#Какой-кейс-решаем?)
+[2. Какой кейс решаем?](https://github.com/SchyB/sf_ds/tree/main/project_0\#Какой-кейс-решаем)
 
 [3. Краткая информация о данных](https://github.com/SchyB/sf_ds/tree/main/project_0\#Краткая-информация-о-данных)
 
